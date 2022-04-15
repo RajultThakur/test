@@ -4,4 +4,6 @@ hii
 2 git add 
 git commit 
 git push
-git add orig
+git add origin
+git checkout <branch name>
+git checkout -b <name>
